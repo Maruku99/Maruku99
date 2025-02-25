@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maruku99
-- 👀 I’m interested in learning to programming and get better int it
-- 🌱 I’m currently learning telematiksysteme
+- 👀 I’m interested in learning to programming and get better at it
+- 🌱 I’m currently learning telematik
 - 📫 How to reach me: mail@marcwendt.com
 
 <!---
